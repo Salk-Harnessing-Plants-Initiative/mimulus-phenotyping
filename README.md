@@ -14,9 +14,9 @@
    cd mimulus-phenotyping
    ```
 
-## Organize the pipeline and your images
+## Organize the pipeline and your trace files
 
-Please make sure to organize the downloaded pipeline, and your traces in the following architecture:
+Please make sure to organize the downloaded pipeline, and your trace files in the following architecture:
 
 ```
 mimulus-phenotyping/
