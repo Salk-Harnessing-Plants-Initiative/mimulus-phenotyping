@@ -54,4 +54,5 @@ mimulus-phenotyping/
    ```
 
 4. **check traits in csv files**:
-    There will be a new folder (`traits_trace`) created after running the pipeline. Traits from all trace files can be found in `all_traits.csv` file. Meanwhile, there will be individual traits files for each experimental design (e.g., A-06-19-24).
+
+   There will be a new folder (`traits_trace`) created after running the pipeline. Traits from all trace files can be found in `all_traits.csv` file. Meanwhile, there will be individual traits files for each experimental design (e.g., A-06-19-24).
